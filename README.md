@@ -1,6 +1,4 @@
-# baas-web
-
-> baas-web for SASEUL
+# web framework default
 
 ## Build Setup
 
