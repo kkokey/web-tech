@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@vue/test-utils": "^1.0.0-beta.29",
-    "aws-sdk": "^2.472.0",
+    "aws-sdk": "^2.814.0",
     "axios": "latest",
     "nuxt": "^2.0.0",
     "vue": "latest",
